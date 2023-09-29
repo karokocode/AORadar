@@ -80,4 +80,4 @@ We extend our sincere gratitude to the Albion Online community for their continu
 
 ## Please Note
 
-AORadar is an ongoing project, and the source code is not yet publicly available. We are diligently working to make the source code accessible and plan to open-source it in the near future. Thank you for your patience and understanding
+AORadar is an ongoing project, and the source code is not yet publicly available. We are diligently working to make the source code accessible and plan to open-source it in the near future. Thank you for your patience and understanding.
