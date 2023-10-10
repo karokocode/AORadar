@@ -39,7 +39,7 @@ Feel the difference as you navigate the game world with AORadar's valuable insig
 
 Have questions, suggestions, or want to connect with fellow Albion Online players? Join our Discord community to stay updated and engage in discussions.
 
-[![AORadar Discord](https://yourdomain.com/discord.png)](https://discord.gg/G7TyFV6RYe)
+[![AORadar Discord](https://yourdomain.com/discord.png)](https://discord.gg/AORadar)
 
 ## License 📜
 
