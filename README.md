@@ -4,7 +4,7 @@
 ![Code Coverage](https://img.shields.io/badge/coverage-80%25-yellow.svg)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 
-AORadar is a cutting-edge radar tool designed to revolutionize your gameplay experience in Albion Online. This tool equips you with real-time information, giving you a competitive edge and empowering you to make strategic decisions while navigating the vast world of Albion.
+AORadar is a cutting-edge radar tool designed to revolutionize your gameplay experience in Albion Online. This tool equips you with real-time information, giving you a competitive edge and empowering you to make strategic decisions while navigating the vast world of Albion
 
 ![AORadar Screenshot](https://media.discordapp.net/attachments/969916254179717200/1135688221234311228/image.png?width=1439&height=596)
 
